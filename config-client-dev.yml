@@ -19,4 +19,4 @@ management:
           include: "*"
           exclude: configprops
 
-foo: abc-change
+foo: massage2
