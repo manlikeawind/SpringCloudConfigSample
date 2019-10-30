@@ -18,3 +18,5 @@ management:
         exposure:
           include: "*"
           exclude: configprops
+
+foo: abc
