@@ -1,0 +1,3 @@
+# SpringCloudConfigSample
+
+Testing springCloudConfig
