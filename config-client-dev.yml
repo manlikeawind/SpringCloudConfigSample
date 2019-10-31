@@ -20,4 +20,4 @@ management:
       exposure:
         include: "*"
 
-foo: ggg
+foo: xxx
