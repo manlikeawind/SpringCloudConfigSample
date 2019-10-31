@@ -13,9 +13,11 @@ spring:
     name: "Admin Client2"
     
 management:
-    endpoints:
-      web:
-        exposure:
-          include: "*"
+  security: 
+    enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: "*"
 
 foo: ggg
